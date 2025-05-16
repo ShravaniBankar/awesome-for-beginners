@@ -30,6 +30,15 @@
             ],
             "description": "RawCMS is a headless CMS written in ASP.NET Core, built for developers that embrace API-first technology."
         },
+	{
+            "name": "Skillify",
+            "link": "https://github.com/ShravaniBankar/skillify",
+            "label": "good first issue",
+            "technologies": [
+                "ML"
+            ],
+            "description": "Get the best resume projects according to your skills !"
+        },
         {
             "name": "grok.net",
             "link": "https://github.com/Marusyk/grok.net",
